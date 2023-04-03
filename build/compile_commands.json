@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/owen/Documents/project4/build",
+  "command": "/usr/bin/g++  -I/home/owen/Documents/project4/include -isystem /usr/include/eigen3 -g -std=gnu++17 -o CMakeFiles/matrix_operations.dir/src/main.cpp.o -c /home/owen/Documents/project4/src/main.cpp",
+  "file": "/home/owen/Documents/project4/src/main.cpp"
+}
+]

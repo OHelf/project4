@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/matrix_operations.dir/src/main.cpp.o -o matrix_operations 

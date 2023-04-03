@@ -1,0 +1,3 @@
+/home/owen/Documents/project4/build/CMakeFiles/matrix_operations.dir
+/home/owen/Documents/project4/build/CMakeFiles/edit_cache.dir
+/home/owen/Documents/project4/build/CMakeFiles/rebuild_cache.dir
